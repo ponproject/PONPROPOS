@@ -6,7 +6,7 @@ Dilengkapi antarmuka minimalis bergaya Monochrome & Aurora Glassmorphism, aplika
 
 🌐 Live Demo / Akses Aplikasi
 
-🚀 Buka Aplikasi Online: https://ponpropos.netlify.app
+🚀 Buka Aplikasi Online: (https://ponpropos.vercel.app/)
 
 ✨ Fitur Utama
 
